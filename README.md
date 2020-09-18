@@ -1,0 +1,2 @@
+# M5StickC_ENVII_SHT30_BMP280
+M5StickC + ENV II (SHT30 &amp; BMP280) sample
